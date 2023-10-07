@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework Notes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Homework Notes</h1>
+        <p>Find and share homework notes with other students.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#subject1">Subject 1</a></li>
+            <li><a href="#subject2">Subject 2</a></li>
+            <!-- Add more subjects here -->
+        </ul>
+    </nav>
+
+    <main>
+        <section id="subject1">
+            <h2>Subject 1 Notes</h2>
+            <article>
+                <h3>Topic 1</h3>
+                <p>Here are the notes for Topic 1 in Subject 1.</p>
+            </article>
+            <article>
+                <h3>Topic 2</h3>
+                <p>These are the notes for Topic 2 in Subject 1.</p>
+            </article>
+            <!-- Add more articles for Subject 1 here -->
+        </section>
+
+        <section id="subject2">
+            <h2>Subject 2 Notes</h2>
+            <article>
+                <h3>Topic 1</h3>
+                <p>Here are the notes for Topic 1 in Subject 2.</p>
+            </article>
+            <article>
+                <h3>Topic 2</h3>
+                <p>These are the notes for Topic 2 in Subject 2.</p>
+            </article>
+            <!-- Add more articles for Subject 2 here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Homework Notes</p>
+    </footer>
+</body>
+</html>
